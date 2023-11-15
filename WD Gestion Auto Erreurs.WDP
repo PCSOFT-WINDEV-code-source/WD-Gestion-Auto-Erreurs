@@ -1,0 +1,103 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WD Gestion Auto Erreurs
+ major_version : 28
+ minor_version : 0
+ type : 4097
+ description : Exemple Decouverte Gestion Erreurs.WDP
+ subtype : 0
+project :
+ identifier : 0x0
+ internal_properties : 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
+ configurations :
+  -
+    name : WD Gestion Auto Erreurs
+    internal_properties : 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
+    configuration_id : 18198706097391994428
+    type : 1
+    description : WD Gestion Auto Erreurs
+    generation_name : WD Gestion Auto Erreurs.exe
+    version :
+     major_version : 21
+     internal_generation_version : 3
+     autoincrement_version : false
+    icon_filename : .\GAF.ico
+    language : 1
+ elements :
+  identifier : 0x4aadf281002b145a
+  elements :
+   -
+     name : FEN_ErreurFatale
+     identifier : 0x4513b82100005082
+     internal_properties : CAAAAAgAAACRbcnd6pefUB+8H4kOSJ8F4f6E1Me7Jxmjj3b15wmVY51XQlnHOX3fOOLcJOzknAz0fA==
+     physical_name : .\FEN_ErreurFatale.wdw
+     type : 2
+   -
+     name : FEN_Menu
+     identifier : 0x451798fe000099e5
+     internal_properties : CAAAAAgAAACgnpiEIxgQy5QlqAabFs781LUjCz4qmp6rSb61xUtBtwnZxjX6zghosWtVo2OdZVulrQ==
+     physical_name : .\FEN_Menu.wdw
+     type : 2
+   -
+     name : FEN_ErreurNonFatale
+     identifier : 0x451150660001e1fc
+     internal_properties : CAAAAAgAAADfuzfr2IWtvglq2dfE6Omj90ASEpGNks7rdRLRJ+ktoxn35hUZ7zcZZtDKNv7yjgLKSg==
+     physical_name : .\FEN_ErreurNonFatale.wdw
+     type : 2
+   -
+     name : FEN_PlusieursNiveaux
+     identifier : 0x45179a3d00017b58
+     internal_properties : CAAAAAgAAACppZH1Mm9HaHfENyH28/et4dxIaF3BasaP5Iek8DBiTqoG9xQf4SUHEAr0zFSMdGSstA==
+     physical_name : .\FEN_PlusieursNiveaux.wdw
+     type : 2
+  other_elements : []
+  net_assemblies : []
+  uwp_api : []
+  external_components : []
+  internal_components : []
+ report_and_queries_enabled : false
+ common_generation_directory : true
+ languages :
+  - fr-FR
+ wb_style_sheet : .\WD Gestion Auto Erreurs.sty
+ code_elements :
+  internal_properties : CAAAAAgAAABseimUYz4VdXZ8hGsGFqoxLDfDcHkNZdBf0iQg2FQcqmw5VrO2lryVMt3efm9RagPlXJBReauIsX3ZdB8=
+  type_code : 0
+  p_codes :
+   -
+     code : |1-
+      
+     type : 196608
+   -
+     code : |1-
+      
+     type : 196610
+   -
+     code : |1-
+      
+     type : 196619
+   -
+     type : 196621
+   -
+     type : 196627
+     enabled : false
+  orphans :
+   -
+     name : WD Gestion Auto Erreurs
+     identifier : 0x4aadf281003114f6
+     code_elements :
+      type_code : 159
+      p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+rad :
+ internal_properties : CAAAAAgAAABhIL0UXeZmxDJxY3Xy0Q==
+project_explorer :
+ explorer_type : project
+resources :
+ string_res :
+  identifier : 0x0
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAAd98VSJfHHqE3P0QHwrwdhn7ig8dWBR6valpUTgnAMTVXiDg==
